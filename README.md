@@ -1,2 +1,2 @@
-# Cria-o_Gerenciamento_de_Usu-rios_e_Periss-es-Shell_Linux
+# Criação e Gerencimanto de Usuários em Shell
 Script shell para criação de usuários em lote e gerenciamento de permissões em Linux 
